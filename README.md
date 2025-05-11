@@ -2,7 +2,6 @@
 
 Hey, Welcome to my Github
 I'm a Full Stack Developer
-this is my instegram: https://www.instagram.com/raz.daniel_/
 
 
 # 💻 Tech Stack:
